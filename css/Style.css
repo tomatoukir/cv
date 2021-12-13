@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    body{
+    
+    background: black;
+    }
+    .main_body{
+    
+/* display: inline-block; */
+    
+/* align-items: center; */
+    
+padding-top: 80px;
+    
+padding-bottom: 80px;
+    }
+    
+    .main_imgi{
+    
+    
+    
+    }
+    
+    .main_imgi img{
+    
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    }
+    
+    .contain_nnd{
+        
+    
+    
+    }
+    
+    .contain_nnd h1{
+    
+    color: #fff;
+    
+    font-size: 34px;
+    }
+    
+    .contain_nnd h2{
+    
+font-size: 22px;
+    
+color: crimson;
+    
+/* margin-right: 9px; */
+    
+margin-top: 20px;
+    }
+    
+    .about_me{
+    
+color: #FFF;
+    
+background: crimson;
+    
+transition: 0.5s all ease-in-out;
+    
+margin-top: 20px;
+    
+border-radius: 50px;
+    }
+
+    .japanio{
+
+display: flex;
+
+align-items: center;
+
+}
+
+.about_me:hover {
+
+color: #fff;
+letter-spacing: 10px;
+
+}
+
+.about_me i.fas.fa-sign-in-alt{
+
+margin-left: 19px;
+}
+

@@ -1,0 +1,43 @@
+@media(min-width:0px) and (max-width:1024px){
+    .main_imgi img {
+        width: 80%;
+    }
+    .contain_nnd h1 {
+        font-size: 32px;
+    }
+    .main_body {
+       
+        padding-top: 159px;
+        
+    }
+
+    }
+
+
+@media(min-width:0px) and (max-width:768px){
+
+    .contain_nnd h1 {
+        font-size: 24px;
+    }
+
+    .contain_nnd h2 {
+        font-size: 19px;
+    }
+
+
+
+}
+
+
+@media(min-width:0px) and (max-width:426px){
+    .main_body {
+       
+        text-align: center;
+    }
+    .contain_nnd h1 {
+        margin-top: 28px;
+      
+    }
+
+
+}
